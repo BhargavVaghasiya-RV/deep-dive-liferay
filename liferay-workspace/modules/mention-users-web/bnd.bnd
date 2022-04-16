@@ -1,0 +1,4 @@
+Bundle-Name: mention-users-web
+Bundle-SymbolicName: com.rv.mention.users.web
+Bundle-Version: 1.0.0
+Export-Package: com.rv.mention.users.web.constants
