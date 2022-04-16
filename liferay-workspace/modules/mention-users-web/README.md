@@ -1,4 +1,4 @@
-# Mention Users Web
+# Mention Liferay Users from custom/OOTB modules of Liferay
 #### Mention users from HTML editor of Liferay
 - We have cool settings for this, using that we can enable mention feature for the required criteria
 -- We can define these criteria from the MentionConfigContributor of this module.
